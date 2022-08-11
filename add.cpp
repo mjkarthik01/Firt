@@ -5,6 +5,6 @@ int main()
     int a,b,c;
     a=200;
     b=2;
-    c=a+b;
+    c=a*b;
     cout<<c;
 } 
